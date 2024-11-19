@@ -1,0 +1,27 @@
+﻿  window.cpp
+C:\vcpkg\vcpkg\installed\x64-windows\include\glad\glad.h(323,9): warning C4005: 'GL_ALL_ATTRIB_BITS': macro redefinition
+  (compiling source file 'window.cpp')
+      C:\vcpkg\vcpkg\installed\x64-windows\include\GL\gl.h(107,9):
+      see previous definition of 'GL_ALL_ATTRIB_BITS'
+  
+C:\vcpkg\vcpkg\installed\x64-windows\include\glad\glad.h(411,9): warning C4005: 'GL_LOGIC_OP': macro redefinition
+  (compiling source file 'window.cpp')
+      C:\vcpkg\vcpkg\installed\x64-windows\include\GL\gl.h(1152,9):
+      see previous definition of 'GL_LOGIC_OP'
+  
+C:\vcpkg\vcpkg\installed\x64-windows\include\glad\glad.h(495,9): warning C4005: 'GL_TEXTURE_COMPONENTS': macro redefinition
+  (compiling source file 'window.cpp')
+      C:\vcpkg\vcpkg\installed\x64-windows\include\GL\gl.h(1153,9):
+      see previous definition of 'GL_TEXTURE_COMPONENTS'
+  
+C:\vcpkg\vcpkg\installed\x64-windows\include\glad\glad.h(589,9): warning C4005: 'GL_CLIENT_ALL_ATTRIB_BITS': macro redefinition
+  (compiling source file 'window.cpp')
+      C:\vcpkg\vcpkg\installed\x64-windows\include\GL\gl.h(973,9):
+      see previous definition of 'GL_CLIENT_ALL_ATTRIB_BITS'
+  
+C:\vsCodeCpp\pakettitesti\pakettitesti\window.cpp(58,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\vsCodeCpp\pakettitesti\pakettitesti\window.cpp(93,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\vsCodeCpp\pakettitesti\pakettitesti\window.cpp(131,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  pakettitesti.vcxproj -> C:\vsCodeCpp\pakettitesti\x64\Debug\pakettitesti.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
