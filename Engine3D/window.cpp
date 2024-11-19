@@ -85,7 +85,7 @@ float WindowApp:: getElapsedTime() {
     return elapsed.count();
 }
 bool WindowApp::onUserCreate() {
-    meshObject* objPtr = initializeMeshObject("C:/vsCodeCpp/pakettitesti/pakettitesti/kuutio.obj");
+    meshObject* objPtr = initializeMeshObject("C:/vsCodeCpp/Engine3D/Engine3D/kuutio.obj");
     float fNear = 0.1f;
     float fFar = 1000.0f;
     float fFov = 90.0f;
